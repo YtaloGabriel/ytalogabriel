@@ -28,6 +28,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ytalogabriel" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/logo-1889511-1597571.png" alt="ytalogabriel" height="32" width="32" /></a>
+<a href="https://linkedin.com/in/ytalogabriel" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/logo-1889510-1597570.png" alt="ytalogabriel" height="32" width="32" /></a>
 <a href="https://instagram.com/ytalogabr" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/logo-1889515-1597575.png" alt="ytalogabr" height="32" width="32" /></a>
 </p>
