@@ -4,8 +4,12 @@
 <p align="center">- 💼 I’m currently working with **React, Next.js and TypeScript**</p>
 <p align="center">- 📫 How to reach me **ytalogabr@gmail.com**</p>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ytalogabriel&show_icons=true&theme=dracula&layout=compact" alt="ytalogabriel" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytalogabriel&show_icons=true&theme=dracula&locale=en" alt="ytalogabriel" /></p>
+
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
