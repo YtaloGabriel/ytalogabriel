@@ -3,7 +3,7 @@
 
 <br>
 
-![Snake animation](https://github.com/ytalogabriel/ytalogabriel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ytalogabriel/YtaloGabriel/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ytalogabriel&show_icons=true&theme=dracula&layout=compact" alt="ytalogabriel" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytalogabriel&show_icons=true&theme=dracula&locale=en" alt="ytalogabriel" /></p>
