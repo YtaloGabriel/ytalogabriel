@@ -11,6 +11,23 @@
 - 📩 Reach me out at **ytalogabr@gmail.com**
 </details>
 
+<details>
+  <summary>🧑 More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
+
+- 💬 Ask me about **open source, web development, and community management**
+
+- 📫 Reach me out at **contact@miaxu.co**
+
+</details>
+
 ![Snake animation](https://github.com/ytalogabriel/YtaloGabriel/blob/output/github-contribution-grid-snake.svg)
 
 ### Github Stats
