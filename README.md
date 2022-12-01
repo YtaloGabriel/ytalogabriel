@@ -18,7 +18,9 @@
 
 </details>
 
-![Snake animation](https://github.com/ytalogabriel/YtaloGabriel/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  ![Snake animation](https://github.com/ytalogabriel/YtaloGabriel/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <h3 align="center">Github Stats:</h3>
 <div align="center">
