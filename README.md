@@ -1,5 +1,5 @@
-# Welcome to my Github!
-## Hello 👋, I'm Ytalo Gabriel, a student passionate about technology, I've been a web developer since 2015, focusing on front end.
+# Hey, there 👋! Welcome to my Github!
+## I'm Ytalo Gabriel, a student passionate about technology, I've been a web developer since 2015, focusing on front end.
 
 <details>
   <summary>👦 More about me</summary>
