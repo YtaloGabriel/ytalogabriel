@@ -1,4 +1,4 @@
-# ✨ Welcome to my Github! ✨
+# Welcome to my Github!
 ## Hello 👋, I'm Ytalo Gabriel, a student passionate about technology, I've been a web developer since 2015, focusing on front end.
 
 <details>
@@ -28,6 +28,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ytalogabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ytalogabriel" height="30" width="40" /></a>
-<a href="https://instagram.com/ytalogabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ytalogabr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ytalogabriel" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/logo-1889511-1597571.png" alt="ytalogabriel" height="32" width="32" /></a>
+<a href="https://instagram.com/ytalogabr" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/developer-tool-1889494-1597554.png" alt="ytalogabr" height="32" width="32" /></a>
 </p>
