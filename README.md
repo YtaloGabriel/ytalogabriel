@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ytalo Gabriel</h1>
 <h3 align="center">Front-end Developer</h3>
 
-- 💼 I’m currently working with **React, Next.js and TypeScript**
-- 📫 How to reach me **ytalogabr@gmail.com**
+<p align="center">
+  - 💼 I’m currently working with **React, Next.js and TypeScript**
+  - 📫 How to reach me **ytalogabr@gmail.com**
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ytalogabriel&show_icons=true&locale=en&layout=compact" alt="ytalogabriel" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytalogabriel&show_icons=true&locale=en" alt="ytalogabriel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ytalogabriel&show_icons=true&theme=dracula&layout=compact" alt="ytalogabriel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytalogabriel&show_icons=true&theme=dracula&locale=en" alt="ytalogabriel" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
