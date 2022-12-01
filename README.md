@@ -20,13 +20,11 @@
 
 ![Snake animation](https://github.com/ytalogabriel/YtaloGabriel/blob/output/github-contribution-grid-snake.svg)
 
-### Github Stats
+<h3 align="center">Github Stats:</h3>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ytalogabriel&show_icons=true&theme=dracula&layout=compact" alt="ytalogabriel"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ytalogabriel&show_icons=true&theme=dracula&locale=en" alt="ytalogabriel"/>
 </div>
-
-<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
